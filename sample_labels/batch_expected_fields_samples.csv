@@ -1,0 +1,31 @@
+filename,brand_name,class_type,alcohol_content,net_contents,bottler_producer,country_of_origin
+01_red_maple_distillery_pass.png,Red Maple,Straight Bourbon Whiskey,46% ALC./VOL. (92 PROOF),750 mL,"Bottled by Red Maple Distillery, 20 Maple Road, Burlington, VT 05401",Product of USA
+02_sunset_grove_merlot_pass.png,Sunset Grove,Merlot,13.9% ALC./VOL.,750 mL,"Produced and Bottled by Sunset Grove Vineyards, Paso Robles, California",California
+03_sierra_verde_reposado_pass.png,Sierra Verde,Tequila Reposado,40% ALC./VOL. (80 PROOF),750 mL,"Imported by Sierra Verde Imports LLC, San Antonio, TX 78205",Hecho en Mexico
+04_harbor_light_vodka_pass.png,Harbor Light,Vodka,40% ALC./VOL. (80 PROOF),750 mL,"Distilled by Harbor Light Spirits, Portland, ME 04101",Product of USA
+05_chateau_laurent_cabernet_pass.png,Chateau Laurent,Cabernet Sauvignon,13.5% ALC./VOL.,750 mL,"Produced and Bottled by Chateau Laurent Winery, Napa, California",California
+06_azul_del_sol_blanco_pass.png,Azul Del Sol,Tequila Blanco,40% ALC./VOL. (80 PROOF),750 mL,"Imported by Azul Imports, Inc., Phoenix, AZ 85004",Hecho en Mexico
+07_riverstone_gin_pass.png,Riverstone,London Dry Gin,42% ALC./VOL. (84 PROOF),750 mL,"Distilled by Riverstone Distilling Co., Providence, RI 02903",Product of USA
+08_black_oak_reserve_pass.png,Black Oak,Kentucky Straight Bourbon Whiskey,47% ALC./VOL. (94 PROOF),750 mL,"Bottled by Black Oak Reserve Distillery, Frankfort, KY 40601",Product of USA
+09_ocean_breeze_lager_pass.png,Ocean Breeze,Craft Lager,5.2% ALC./VOL.,12 FL OZ (355 mL),"Brewed and Canned by Ocean Breeze Brewing Co., Charleston, SC 29401",Brewed in USA
+10_caribbean_star_rum_pass.png,Caribbean Star,Rum,40% ALC./VOL. (80 PROOF),750 mL,"Imported by Caribbean Star Imports LLC, Miami, FL 33130",Product of Jamaica
+11_wildflower_mead_pass.png,Wildflower,Honey Wine Mead,12% ALC./VOL.,750 mL,"Produced and Bottled by Wildflower Apiary Cellars, Asheville, NC 28801",Product of USA
+12_glacier_point_vodka_pass.png,Glacier Point,Vodka,40% ALC./VOL. (80 PROOF),750 mL,"Distilled by Glacier Point Spirits, Bozeman, MT 59715",Product of USA
+13_golden_hops_ipa_pass.png,Golden Hops,India Pale Ale,6.8% ALC./VOL.,12 FL OZ (355 mL),"Brewed and Canned by Golden Hops Foundry Brewing, Grand Rapids, MI 49503",Brewed in USA
+14_moon_valley_pinot_pass.png,Moon Valley,Pinot Noir,13.5% ALC./VOL.,750 mL,"Produced and Bottled by Moon Valley Winery, Lodi, California",California
+15_highland_heritage_scotch_pass.png,Highland Heritage,Scotch Whisky,43% ALC./VOL. (86 PROOF),750 mL,"Imported by Highland Heritage Imports, New York, NY 10017",Product of Scotland
+16_missing_warning_fail.png,Cedar Creek,Small Batch Bourbon,45% ALC./VOL. (90 PROOF),750 mL,"Bottled by Cedar Creek Distillers, Lexington, KY 40507",Product of USA
+17_missing_importer_fail.png,Desert Sun,Tequila Blanco,40% ALC./VOL. (80 PROOF),750 mL,,Hecho en Mexico
+18_incomplete_address_fail.png,Noble Oak,Straight Bourbon,45% ALC./VOL. (90 PROOF),750 mL,"Bottled by Noble Oak Distilling, Nashville, TN",Product of USA
+19_missing_country_fail.png,Islander Gold,Rum,40% ALC./VOL. (80 PROOF),750 mL,"Imported by Islander Gold Imports, Tampa, FL 33602",
+20_title_case_warning_fail.png,Misty Hollow,Sauvignon Blanc,13.0% ALC./VOL.,750 mL,"Produced and Bottled by Misty Hollow Winery, Sonoma, California",California
+21_partial_warning_fail.png,Prairie Fire,Straight Bourbon Whiskey,46% ALC./VOL. (92 PROOF),750 mL,"Bottled by Prairie Fire Distilling Co., Wichita, KS 67202",Product of USA
+22_tiny_warning_fail.png,Silver Crest,Pilsner,5.0% ALC./VOL.,12 FL OZ (355 mL),"Brewed and Canned by Silver Crest Brewing Co., Madison, WI 53703",Brewed in USA
+23_glare_obstruction_fail.png,Coastal Light,Vodka,40% ALC./VOL. (80 PROOF),750 mL,"Distilled by Coastal Light Distillers, Wilmington, NC 28401",Product of USA
+24_blurry_label_fail.png,Evergreen Peak,London Dry Gin,41% ALC./VOL. (82 PROOF),750 mL,"Distilled by Evergreen Peak Distillers, Seattle, WA 98101",Product of USA
+25_rotated_label_fail.png,North Star,Whiskey,43% ALC./VOL. (86 PROOF),750 mL,"Bottled by North Star Whiskey Co., Duluth, MN 55802",Product of USA
+26_cropped_label_fail.png,Heritage Hill,Whiskey,45% ALC./VOL. (90 PROOF),750 mL,"Bottled by Heritage Hill Distillery, Richmond, KY 40475",Product of USA
+27_wrong_volume_fail.png,Arctic Crown,Vodka,40% ALC./VOL. (80 PROOF),700 mL,"Distilled by Arctic Crown Spirits, Anchorage, AK 99501",Product of USA
+28_wrong_abv_fail.png,Wild Mountain,Bourbon Whiskey,38% ALC./VOL. (76 PROOF),750 mL,"Bottled by Wild Mountain Distilling, Boise, ID 83702",Product of USA
+29_missing_class_type_fail.png,Golden Meadow,,12.5% ALC./VOL.,750 mL,"Produced and Bottled by Golden Meadow Cellars, Monterey, California",California
+30_mismatched_country_fail.png,Luna Verde,Tequila Reposado,40% ALC./VOL. (80 PROOF),750 mL,"Imported by Luna Verde Imports, San Diego, CA 92101",Product of Spain
